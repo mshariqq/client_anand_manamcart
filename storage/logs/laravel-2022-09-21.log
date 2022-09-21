@@ -104,3 +104,79 @@
 [stacktrace]
 #0 {main}
 "} 
+[2022-09-21 06:12:51] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:13:51] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:14:51] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:15:51] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:16:51] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:17:50] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:18:51] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:19:51] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:20:50] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:21:51] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:22:50] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:23:50] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:24:51] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:25:50] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:26:50] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:27:52] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:28:50] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:29:51] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-09-21 06:30:51] production.ERROR: Trait 'Laravel\Sanctum\HasApiTokens' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'Laravel\\Sanctum\\HasApiTokens' not found at D:\\Shariqq\\CoProjects\\PUBLIC\\clients\\Anand-services\\manamart.com\\public_html\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
