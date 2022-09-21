@@ -1,0 +1,9 @@
+{
+    "name": "Backup",
+    "namespace": "Botble\\Backup\\",
+    "provider": "Botble\\Backup\\Providers\\BackupServiceProvider",
+    "author": "Shariqq .com",
+    "url": "https://shariqq.com",
+    "version": "5.8",
+    "description": "Backup & restore database, uploads folder"
+}
